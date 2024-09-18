@@ -1,4 +1,4 @@
-**# Hyderabad-Metro-App**
+# Hyderabad-Metro-App
 **Overview:**
 The Hyderabad Metro App is a Java-based metro route finder that calculates the shortest distance and path between metro stations in the Hyderabad Metro network. It leverages Graph and Heap data structures along with Dijkstra, BFS, and DFS algorithms to provide commuters with efficient route recommendations and fare calculations based on the total distance traveled.
 
